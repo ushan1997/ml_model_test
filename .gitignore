@@ -1,0 +1,10 @@
+dataset/
+Mask_RCNN/
+model/
+himasha/
+ngrok.exe
+
+assets/output/
+assets/upload/
+
+__pycache__/
